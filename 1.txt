@@ -1,1 +1,6 @@
-qwer
+<<<<<<< HEAD
+qwerty
+=======
+qwerty
+>>>>>>> master
+
